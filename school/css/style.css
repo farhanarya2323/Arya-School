@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    width: 90%;
+    margin: auto;
+    background: #f7f7f7;
+}
+
+h1, h2 {
+    background: #003366;
+    color: white;
+    padding: 12px;
+}
+
+.menu a {
+    display: block;
+    padding: 12px;
+    background: #0066cc;
+    color: white;
+    margin: 10px 0;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+form input, button {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+}
+
+table {
+    background: white;
+    margin-top: 20px;
+}
+
+#results {
+    margin-top: 20px;
+    background: white;
+    padding: 10px;
+}
